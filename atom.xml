@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Jonathan Albright's Blog]]></title>
-  <link href="http://jalbright.github.io/atom.xml" rel="self"/>
-  <link href="http://jalbright.github.io/"/>
-  <updated>2013-07-17T15:30:07-06:00</updated>
-  <id>http://jalbright.github.io/</id>
+  <link href="http://yoursite.com/atom.xml" rel="self"/>
+  <link href="http://yoursite.com/"/>
+  <updated>2013-07-17T15:55:16-06:00</updated>
+  <id>http://yoursite.com/</id>
   <author>
     <name><![CDATA[Jonathan Albright]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[This is just a placeholder for now]]></title>
-    <link href="http://jalbright.github.io/post-title/"/>
+    <link href="http://yoursite.com/post-title/"/>
     <updated>2013-07-17T15:00:00-06:00</updated>
-    <id>http://jalbright.github.io/post-title</id>
+    <id>http://yoursite.com/post-title</id>
     <content type="html"><![CDATA[<p>Bacon ipsum dolor sit amet prosciutto hamburger biltong, ribeye pork
 loin tri-tip frankfurter pastrami brisket tail sausage shankle pancetta
 rump spare ribs. Corned beef ribeye ground round turkey shankle pastrami
